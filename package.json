@@ -1,0 +1,34 @@
+{
+  "name": "coopdev",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@remobile/react-native-splashscreen": "^1.0.3",
+    "RNBaiduMap": "0.0.2",
+    "baidumapkit": "^1.1.0",
+    "react": "^15.1.0",
+    "react-native": "^0.27.2",
+    "react-native-alphabetlistview": "^0.2.0",
+    "react-native-animatable": "^0.6.1",
+    "react-native-button": "^1.6.0",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-custom-checkbox": "^1.5.0",
+    "react-native-image-resizer": "0.0.12",
+    "react-native-keychain": "^0.3.2",
+    "react-native-lightbox": "^0.6.0",
+    "react-native-router-flux": "^3.30.0",
+    "react-native-scrollable-tab-view": "^0.5.0",
+    "react-native-send-intent": "^1.0.13",
+    "react-native-splashscreen": "^1.0.0",
+    "react-native-tesseract-ocr": "^1.0.6",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.7.4",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {}
+}
